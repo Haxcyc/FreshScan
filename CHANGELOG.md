@@ -26,4 +26,4 @@
 #V1.3.0 - August 28, 2026
 - Improved the tracking system by having an output rather than just checking data manually in the JSON
 - Organized files by putting them into one folder
-- Started on the 
+- Started on the visuals of the program using PySide6
