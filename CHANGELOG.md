@@ -6,7 +6,7 @@
 - First version of the program
 - User can:
   - Scan QR Codes
-  - 
+
 #V1.1.0 - July 23, 2026
 - Added a feature that allows for a generator that generates a sheet full of small QR codes that can be printed on sticker paper and put on packaging
 
