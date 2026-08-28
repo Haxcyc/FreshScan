@@ -27,3 +27,5 @@
 - Improved the tracking system by having an output rather than just checking data manually in the JSON
 - Organized files by putting them into one folder
 - Started on the visuals of the program using PySide6
+
+# THE CODE SO FAR IS JUST A PYTHON PROGRAM WITHOUT VISUALS
