@@ -38,11 +38,15 @@
 #If user uses the product before the expiry date, Deactivate/Delete the data of that product to cancel all future reminders.
 
 #Contributors:
+
 #Jave Ethan Valeza
+
 -How to run and sample the interaction 
 
 #Alfred Joseph Ayo
+
 -Made the project title and overview
 
 #Keith Nathan Garces
+
 -Contributors and title
