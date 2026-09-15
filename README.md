@@ -49,4 +49,4 @@
 
 #Keith Nathan Garces
 
--Contributors and title
+-Contributions, Project title, and documentations
