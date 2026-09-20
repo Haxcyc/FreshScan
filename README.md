@@ -4,8 +4,10 @@
 #Project Proposal
 
 #Title: FreshScan
+
 #Overview/Description: 
 #FreshScan is an app for PC and or mobile, that offers premium reminders about expiring food to eliminate the probability of #wasting food just because you forgot that food is expiring. FreshScan does this by using a QR code sy.stem through stickers #that you can place on your food or packaging that allows for easy tracking.
+
 #Features: 
 #Food expiration tracking (Fresh, About to expire, Expired)
 #Allows you to delete expired or eaten foods
@@ -18,11 +20,13 @@
 #How to Run/Requirements
 #Requirements:
 #Webcam/Camera
-#
+#Android 5.0 and above (If mobile)
+#Windows 10 and above (If Laptop or PC)
+
 #How to Run:
 #Make sure you have the system requirements
-#Download the application
-#Run the Application
+#Download the file (APK if Mobile)
+#Run the file / APK
 #Choose one of the four options in the main screen; Food Tracking/Overview, QRCODE Scanner, QRCODE Generator, Settings.
 #Generate a QR Code and print it on any kind of sticker paper and paste it on an product you want to track.
 #Scan the QR Code to input the expire date of the product.
