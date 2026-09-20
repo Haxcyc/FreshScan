@@ -43,14 +43,14 @@
 
 #Contributors:
 
-#Jave Ethan Valeza
+#Jave Ethan Valeza (Dev)
 
--How to run and sample the interaction 
+-How to run and sample interaction 
 
-#Alfred Joseph Ayo
+#Alfred Joseph Ayo (Dev)
 
--Made the project title and overview
+-Made the project title, features, and overview
 
-#Keith Nathan Garces
+#Keith Nathan Garces (Documentor)
 
 -Contributions, Project title, and documentations
