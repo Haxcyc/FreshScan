@@ -1,14 +1,14 @@
 # FreshScan
 #qr code, fresh scan, #fyp #trending #pshsevc #alfred #jave #keith #ajk #freshscan
 
-#Project Proposal
+## Project Proposal
 
-#Title: FreshScan
+### Title: FreshScan
 
-#Overview/Description: 
+### Overview/Description: 
 #FreshScan is an app for PC and or mobile, that offers premium reminders about expiring food to eliminate the probability of #wasting food just because you forgot that food is expiring. FreshScan does this by using a QR code sy.stem through stickers #that you can place on your food or packaging that allows for easy tracking.
 
-#Features: 
+### Features: 
 #Food expiration tracking (Fresh, About to expire, Expired)
 #Allows you to delete expired or eaten foods
 #QR Code scanner / Camera
@@ -17,13 +17,13 @@
 #Input for expiration date after placing sticker on food and scanning
 #Detailed overview of your expiration date history
 
-#How to Run/Requirements
+### How to Run/Requirements
 #Requirements:
 #Webcam/Camera
 #Android 5.0 and above (If mobile)
 #Windows 10 and above (If Laptop or PC)
 
-#How to Run:
+### How to Run:
 #Make sure you have the system requirements
 #Download the file (APK if Mobile)
 #Run the file / APK
@@ -32,7 +32,7 @@
 #Scan the QR Code to input the expire date of the product.
 #Track the date using the Food Tracking/Overview option.
 
-#Sample Interaction/Example Output:
+### Sample Interaction/Example Output:
 #QRCODE Scanner scans the QR code,
 #User inputs the expiry date of the product,
 #System logs it into a .json file
@@ -41,7 +41,7 @@
 #Application tracks the date and gives reminders 3 days before expiry and 1 day before expiry
 #If user uses the product before the expiry date, Deactivate/Delete the data of that product to cancel all future reminders.
 
-#Contributors:
+### Contributors:
 
 #Jave Ethan Valeza (Dev)
 
